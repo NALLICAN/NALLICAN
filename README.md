@@ -1,27 +1,27 @@
 <h1 align="center">Hi 👋, I'm Yeshwanth Nalli</h1>
-<h3 align="center">IT Undergrad | Full Stack Developer | SNARK Enthusiast</h3>
+<h3 align="center">A passionate Full-Stack Developer & Blockchain Enthusiast</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NALLICAN&show_icons=true&theme=radical" alt="Yeshwanth's GitHub stats"/>
-</p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8f3b.gif" />
 
----
+- 🔭 I’m currently working on **Instant-Transfer**
 
-### 🧠 Skills
-- 💻 Full Stack Development (MERN, Django, Express)
-- 🔐 Cryptography & SNARKs (Plonky2, BabyBear, zkApps)
-- 📊 Data Analytics (SVM, DT, Clustering)
-- ⚙️ DevOps (Docker, Kubernetes)
+- 🌱 I’m currently learning **System Design, SNARKs, and Plonky2**
 
----
+- 💬 Ask me about **Node.js, React, Docker, or GitHub Actions**
 
-### 🌐 Connect with Me
+- 📫 How to reach me:  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nalli-yeshwanth-7885a3317)  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/Naughtyyarn)
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nalli-yeshwanth-7885a3317/)
-- 🐦 [Twitter](https://x.com/Naughtyyarn)
+- ⚡ Fun fact: I love debugging weird bugs & optimizing low-level code.
 
 ---
 
-### 📈 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NALLICAN&layout=compact&theme=radical)
+### 🛠️ Languages and Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-K8s-blue?style=flat-square&logo=kubernetes)
+![Plonky2](https://img.shields.io/badge/-Plonky2-purple?style=flat-square)
